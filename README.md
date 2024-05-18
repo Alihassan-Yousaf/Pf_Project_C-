@@ -1,4 +1,4 @@
-#Hassan Medical Store Management System in C++
+#@Hassan Medical Store Management System in C++
 Welcome to the Hassan Medical Store Management System project, crafted during my second-semester programming fundamentals course in C++. This comprehensive application streamlines the management of a medical store's inventory and purchasing process, while showcasing essential programming concepts like file handling and user authentication.
 
 Project Highlights:
